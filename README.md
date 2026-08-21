@@ -1,11 +1,14 @@
-# 🔬 ResearchFlow AI — Research Software Engineering Assistant
+# 🔬 ResearchFlow — Research Software Engineering Assistant
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-research--flow--1.vercel.app-success?logo=vercel&logoColor=white)](https://research-flow-1.vercel.app/)
 [![React](https://img.shields.io/badge/Frontend-React%2019%20%2B%20Vite-61DAFB?logo=react&logoColor=black)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/Backend-Node.js%20%2B%20Express-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
 [![MongoDB](https://img.shields.io/badge/Database-MongoDB%20Mongoose-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Google Gemini](https://img.shields.io/badge/AI-Google%20Gemini%20API-4285F4?logo=google&logoColor=white)](https://deepmind.google/technologies/gemini/)
 [![Bootstrap](https://img.shields.io/badge/UI-Bootstrap%205.3-7952B3?logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
+> 🌐 **Live Application**: [https://research-flow-1.vercel.app/](https://research-flow-1.vercel.app/)
 
 **ResearchFlow** is a comprehensive full-stack platform designed to help researchers, scientists, and students adopt **Research Software Engineering (RSE)** best practices. It bridges the gap between academic code and production-grade engineering standards through automated code assessment, AI-driven mentorship, reproducibility auditing, and team collaboration.
 
