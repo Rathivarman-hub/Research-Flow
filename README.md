@@ -173,8 +173,9 @@ npm run dev
 
 ## 🚢 Deployment
 
-- **Frontend**: Ready for deployment on [Vercel](https://vercel.com/) with SPA rewrites configured in [`client/vercel.json`](client/vercel.json).
-- **Backend**: Ready for deployment on [Render](https://render.com/) or [Railway](https://railway.app/).
+- **Live URL**: [https://research-flow-1.vercel.app/](https://research-flow-1.vercel.app/)
+- **Frontend**: Deployed on [Vercel](https://vercel.com/) with SPA rewrites configured in [`client/vercel.json`](client/vercel.json).
+- **Backend**: Deployed on [Render](https://render.com/) / [Railway](https://railway.app/).
 
 ---
 
