@@ -7,7 +7,7 @@
 [![Bootstrap](https://img.shields.io/badge/UI-Bootstrap%205.3-7952B3?logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-**ResearchFlow AI** is a comprehensive full-stack platform designed to help researchers, scientists, and students adopt **Research Software Engineering (RSE)** best practices. It bridges the gap between academic code and production-grade engineering standards through automated code assessment, AI-driven mentorship, reproducibility auditing, and team collaboration.
+**ResearchFlow** is a comprehensive full-stack platform designed to help researchers, scientists, and students adopt **Research Software Engineering (RSE)** best practices. It bridges the gap between academic code and production-grade engineering standards through automated code assessment, AI-driven mentorship, reproducibility auditing, and team collaboration.
 
 ---
 
